@@ -1,7 +1,7 @@
 # Личный проект «Кэт энерджи» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Алексей Дорофеев](https://up.htmlacademy.ru/adaptive/14/user/299055).
-* Наставник: `Неизвестно`.
+* Наставник: [Илья Мельниченков](https://htmlacademy.ru/profile/cyxobeu).
 
 ---
 
